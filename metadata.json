@@ -1,0 +1,7 @@
+{
+  "name": "Chloris",
+  "description": "Chloris - An advanced, AI-powered plant phenology simulator that calculates flowering times, growth stages, and yield potential based on photoperiod, DLI, and GDD modeling.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
